@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "ASGARD-QV7V.aternos.me",
+    "port": 20421,
     "version": "",
     "try-creative": false
   },
